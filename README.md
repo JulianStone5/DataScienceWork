@@ -1,3 +1,2 @@
-# DataScienceWork
-## Nabih Estefan Diaz
-### This is the repository where i will have all my Data Science Work
+# Nabih Estefan Diaz
+## This is where all my work for Data Science will be
